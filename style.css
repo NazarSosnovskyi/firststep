@@ -3,27 +3,26 @@
   padding: 0;
   top: 0;
   left: 0;
-
+}
 .main {
   width: 100%;
   height: 100vh;
-  background-color: #17eb93;
+  background-color: #69bdb7;
 }
-
 .main-text {
   text-align: center;
   position: relative;
   top: 20%;
   color: #fff;
-
-  .main h1{
-    font-size: 4rem;
-    text-transform: uppercase;
-    font-family: 'Trebuchet MS';
-  }
-  .main p{
-    margin-top: 30px;
-    font-size: 1.5rem;
-    font-family: 'Trebuchet MS';
-    position: relative;
-  }
+}
+.main h1{
+  font-size: 4rem;
+  text-transform: uppercase;
+  font-family: 'Trebuchet MS';
+}
+.main p{
+  margin-top: 30px;
+  font-size: 1.5rem;
+  font-family: 'Trebuchet MS';
+  position: relative;
+}
